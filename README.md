@@ -1,3 +1,7 @@
+🌏 Languages: [한국어](README(한글_가이드).md) | [English](README_original_en.md)
+
+---
+
 깃허브에 저장소를 새로 만들고 전체 폴더를 올리는 과정입니다. 
 
 ---

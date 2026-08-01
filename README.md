@@ -1,4 +1,4 @@
-🌏 Languages: [한국어](README(한글_가이드).md) | [English](README_original_en.md)
+🌏 Languages: [한국어](README.md) | [English](README_original_en.md)
 
 ---
 

@@ -1,3 +1,7 @@
+🌏 Languages: [English](README.md) | [한국어](README(한글_가이드).md)
+
+---
+
 # What This Document Is
 
 This is a reproducible, step-by-step writeup of the whole process:

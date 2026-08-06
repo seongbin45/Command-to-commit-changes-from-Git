@@ -8,8 +8,10 @@
 
 ## 0단계: 깃 사용자 정보 설정 (이 컴퓨터에서 최초 1회만)
 깃은 커밋마다 “누가 남긴 기록인지”를 함께 저장합니다. 이 설정이 없으면 3번 커밋에서 Please tell me who you are. 에러로 멈춥니다.
-~~~bash
+~~~
 git config --global user.name 
+~~~
+~~~
 git config --global user.email 
 ~~~
 
@@ -20,7 +22,7 @@ git config --global user.email
 <details>
 <summary><b>설정 여/부 확인 방법</b></summary>
    
-~~~bash
+~~~
 git config --global --list
 ~~~
 

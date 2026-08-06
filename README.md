@@ -4,10 +4,12 @@
 
 깃허브에 저장소를 새로 만들고 전체 폴더를 올리는 과정입니다. 
 
+<details>
+<summary><b>0단계: 깃 사용자 정보 설정 (이 컴퓨터에서 최초 1회만)</b></summary>
+
 ---
 
-## 0단계: 깃 사용자 정보 설정 (이 컴퓨터에서 최초 1회만)
-깃은 커밋마다 “누가 남긴 기록인지”를 함께 저장합니다. 이 설정이 없으면 3번 커밋에서 Please tell me who you are. 에러로 멈춥니다.
+깃은 커밋마다 “누가 남긴 기록인지”를 함께 저장합니다. 사용자 정보 설정이 없으면 3번 커밋에서 `Please tell me who you are.` 에러로 멈춥니다.
 ~~~
 git config --global user.name 
 ~~~
@@ -38,6 +40,8 @@ git config --global --list
 * 개인 이메일을 숨기려면 깃허브 Settings → Emails의 12345678+아이디@users.noreply.github.com 주소를 쓰세요.  
 * 학교·공용 컴퓨터라면 --global을 빼고 해당 폴더 안에서 실행하세요.
 ```
+
+</details>
 
 </details>
 

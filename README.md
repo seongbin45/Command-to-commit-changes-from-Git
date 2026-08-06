@@ -50,9 +50,9 @@ git config --global --list
 # 1단계: 깃허브 웹사이트에서 레포지토리 만들기
 
    1. 깃허브(Github.com)에 로그인합니다.
-   2. 오른쪽 상단의 + 버튼을 누르고 New repository를 선택합니다.
-   3. Repository name에 CODYSSEY_2_ProJect를 입력합니다.
-   4. 다른 설정(README, .gitignore 등)은 체크하지 말고 비워둔 채 맨 아래 Create repository를 누릅니다.
+   2. 오른쪽 상단의 + 버튼을 누르고 `New repository`를 선택합니다.
+   3. 지금 머릿속에 떠오르는 단어를 `Repository name`에 입력합니다.
+   4. 다른 설정(README, .gitignore 등)은 체크하지 말고 비워둔 채 맨 아래 `Create repository`를 누릅니다.
    5. 화면에 나오는 주소창에서 https://github.com 형태의 저장소 주소를 복사합니다.
 
 ---
